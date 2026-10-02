@@ -1,0 +1,17 @@
+# Xcode
+.DS_Store
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.swp
+*~
