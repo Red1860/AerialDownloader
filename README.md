@@ -26,7 +26,7 @@ Download your favourite macOS Screensaver locally on your device.
 
 ## Category Images
 The following category images are from the following sources:
-1. `https://posterjack.ca/blogs/inspiration/15-great-landscape-photos-and-what-makes-them-great?srsltid=AU7gw4X1_ZlI-5wq-yhacMqX9ir1JMutDvjLCDn-UK9pmbkVYnouvZ6i`
-2. `https://www.myclickmagazine.com/underwater-photography-with-elizabeth-blank/`
-3. `https://www.befunky.com/learn/city-skyline-photography/`
-4. `https://www.magnific.com/free-photo/3d-rendering-planet-earth_44957889.htm#fromView=keyword&page=1&position=1&uuid=976588c0-288d-4951-9f5a-61dae91562d4&track=ais_hybrid&query=Green+earth+4k+wallpaper`
+1. Landscape: ```https://posterjack.ca/blogs/inspiration/15-great-landscape-photos-and-what-makes-them-great?srsltid=AU7gw4X1_ZlI-5wq-yhacMqX9ir1JMutDvjLCDn-UK9pmbkVYnouvZ6i```
+2. Underwater: ```https://www.myclickmagazine.com/underwater-photography-with-elizabeth-blank/```
+3. Cityscape: ```https://www.befunky.com/learn/city-skyline-photography/```
+4. Earth: ```https://www.magnific.com/free-photo/3d-rendering-planet-earth_44957889.htm#fromView=keyword&page=1&position=1&uuid=976588c0-288d-4951-9f5a-61dae91562d4&track=ais_hybrid&query=Green+earth+4k+wallpaper```
